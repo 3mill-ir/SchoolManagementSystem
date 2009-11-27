@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C35ADF57-D358-4043-BDDF-5F6F1126C366}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMS1</RootNamespace>
+    <AssemblyName>SMS1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="farhaniPersianDate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dcb6d5aa8abb275d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\farhaniPersianDate.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiMessageBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\FarsiMessageBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\pipopipopipopipopipo\TextAnimator\TextAnimator\bin\Debug\TextScreen.dll</HintPath>
+    </Reference>
+    <Reference Include="_UseFull, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\_UseFull.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CResolution.cs" />
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_form.Designer.cs">
+      <DependentUpon>Admin_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Amozesh_register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Amozesh_register.designer.cs">
+      <DependentUpon>Form_Amozesh_register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_banktest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_banktest.designer.cs">
+      <DependentUpon>Form_banktest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_barnam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_barnam.designer.cs">
+      <DependentUpon>form_barnam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_barname.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_barname.designer.cs">
+      <DependentUpon>Form_barname.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_class.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_class.Designer.cs">
+      <DependentUpon>Form_class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_dailywords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_dailywords.Designer.cs">
+      <DependentUpon>Form_dailywords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ebook.Designer.cs">
+      <DependentUpon>Form_ebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ebookarchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ebookarchive.Designer.cs">
+      <DependentUpon>Form_ebookarchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_editstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_editstudent.Designer.cs">
+      <DependentUpon>Form_editstudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_edituser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_edituser.Designer.cs">
+      <DependentUpon>Form_edituser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_elearchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_elearchive.designer.cs">
+      <DependentUpon>Form_elearchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_election.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_election.Designer.cs">
+      <DependentUpon>Form_election.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_email.Designer.cs">
+      <DependentUpon>Form_email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_lesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_lesson.designer.cs">
+      <DependentUpon>Form_lesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_mailarchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_mailarchive.Designer.cs">
+      <DependentUpon>Form_mailarchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_recentelcection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_recentelcection.Designer.cs">
+      <DependentUpon>Form_recentelcection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_sms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_sms.Designer.cs">
+      <DependentUpon>Form_sms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_smsarchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_smsarchive.Designer.cs">
+      <DependentUpon>Form_smsarchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_termgrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_termgrade.designer.cs">
+      <DependentUpon>Form_termgrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Test.Designer.cs">
+      <DependentUpon>Form_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_testarchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_testarchive.designer.cs">
+      <DependentUpon>Form_testarchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_user.Designer.cs">
+      <DependentUpon>Form_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_monthgrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_monthgrade.Designer.cs">
+      <DependentUpon>Form_monthgrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintDGV.cs" />
+    <Compile Include="PrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOptions.designer.cs">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_form.resx">
+      <DependentUpon>Admin_form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Amozesh_register.resx">
+      <DependentUpon>Form_Amozesh_register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_banktest.resx">
+      <DependentUpon>Form_banktest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_barnam.resx">
+      <DependentUpon>form_barnam.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_barname.resx">
+      <DependentUpon>Form_barname.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_class.resx">
+      <DependentUpon>Form_class.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_dailywords.resx">
+      <DependentUpon>Form_dailywords.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ebook.resx">
+      <DependentUpon>Form_ebook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ebookarchive.resx">
+      <DependentUpon>Form_ebookarchive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_editstudent.resx">
+      <DependentUpon>Form_editstudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_edituser.resx">
+      <DependentUpon>Form_edituser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_elearchive.resx">
+      <DependentUpon>Form_elearchive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_election.resx">
+      <DependentUpon>Form_election.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_email.resx">
+      <DependentUpon>Form_email.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_lesson.resx">
+      <DependentUpon>Form_lesson.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_mailarchive.resx">
+      <DependentUpon>Form_mailarchive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_recentelcection.resx">
+      <DependentUpon>Form_recentelcection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_sms.resx">
+      <DependentUpon>Form_sms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_smsarchive.resx">
+      <DependentUpon>Form_smsarchive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_termgrade.resx">
+      <DependentUpon>Form_termgrade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Test.resx">
+      <DependentUpon>Form_Test.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_testarchive.resx">
+      <DependentUpon>Form_testarchive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_user.resx">
+      <DependentUpon>Form_user.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_monthgrade.resx">
+      <DependentUpon>Form_monthgrade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintOptions.resx">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_student_register.resx">
+      <DependentUpon>Form_student_register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form_student_register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_student_register.designer.cs">
+      <DependentUpon>Form_student_register.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\School_animation4.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-green.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-page-yellow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-item-yellow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-green.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\869624480.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-folder-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-contact-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-blue1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-comment-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkout2-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stats2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stats4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload-page-blue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\class_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lesson_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedualin__new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms_icon_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_new copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comments_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dayli word_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploading_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edu_state_new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploadin_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms_icon_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedualin_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lesson_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edu_state_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daily_word_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comment_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\class_new_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\94.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return homee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\display.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_but.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\lesson bk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ebook_att.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attachment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_list_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\tahlil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

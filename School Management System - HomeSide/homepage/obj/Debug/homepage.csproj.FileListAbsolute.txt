@@ -1,0 +1,197 @@
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\Administrator\Desktop\homepage\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver11\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\Administrator\Desktop\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form2.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\ffftoday\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\bin\Debug\homepage.exe
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\bin\Debug\homepage.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\bin\Debug\_UseFull.dll
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\bin\Debug\FarsiMessageBox.dll
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form1.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form2.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_chart.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.exe
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.pdb
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.csprojResolveAssemblyReference.cache
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form1.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form2.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_barname.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_chart.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_dailywords.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_downloadebook.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_editpass.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_election.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_mail.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_main.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_monthgrade.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_termgrade.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Form_testarchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.PrintOptions.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.Properties.Resources.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\homepage00\homepage\obj\Debug\homepage.csproj.GenerateResource.Cache

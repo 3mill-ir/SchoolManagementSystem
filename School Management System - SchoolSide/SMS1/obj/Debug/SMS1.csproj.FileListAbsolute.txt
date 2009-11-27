@@ -1,0 +1,783 @@
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\bin\Debug\pipo-sms1.mdf
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\bin\Debug\pipo-sms1_log.ldf
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\bin\Debug\pipo-sms1.mdf
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\bin\Debug\pipo-sms1_log.ldf
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\uut1\Desktop\final sms\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\uut1\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\sms3\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mohammad\Desktop\sms5\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\Administrator\Desktop\version 7\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\version 8\New Folder\sms5(2)\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver11\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 16\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 17\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 18\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 19\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\pipo\Desktop\ver 20\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ver 21\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+M:\New Folder (2)\SMS1\SMS1\bin\Debug\SMS1.exe.config
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.exe
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.pdb
+M:\New Folder (2)\SMS1\SMS1\bin\Debug\SMS1.exe
+M:\New Folder (2)\SMS1\SMS1\bin\Debug\SMS1.pdb
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+M:\New Folder (2)\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+I:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe.config
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.exe
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.pdb
+I:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe
+I:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.pdb
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+I:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+M:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe.config
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.exe
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.pdb
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+M:\project\school managemint system\sms1_1\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+M:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.exe
+M:\project\school managemint system\sms1_1\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\sms1_1\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\Administrator\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\final project\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\Administrator\Desktop\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\bin\Debug\TextScreen.dll
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS.Form2.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\ffftoday\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\bin\Debug\SMS1.exe.config
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\bin\Debug\SMS1.exe
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\bin\Debug\SMS1.pdb
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\bin\Debug\TextScreen.dll
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+C:\Documents and Settings\pipo\Desktop\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form2.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.csprojResolveAssemblyReference.cache
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form1.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.main_form.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form2.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_Amozesh_register.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_banktest.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.form_barnam.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_barname.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_class.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_dailywords.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_ebook.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_ebookarchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_editstudent.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_edituser.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_elearchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_election.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_email.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_lesson.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_mailarchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_recentelcection.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_sms.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_smsarchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_termgrade.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_Test.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_testarchive.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_user.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_monthgrade.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.PrintOptions.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Properties.Resources.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.Form_student_register.resources
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.csproj.GenerateResource.Cache
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.exe
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\obj\Debug\SMS1.pdb
+F:\Expert\University Project\Software & Data base Project\Ajax_project\SMS1\SMS1\bin\Debug\SMS1.exe.config
